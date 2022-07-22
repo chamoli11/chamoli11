@@ -6,7 +6,7 @@
 
 
 # Skills:
-###C/ PYTHON / JAVA /
+### C/ PYTHON / JAVA 
 
 
 
@@ -17,11 +17,11 @@
 # GITHUB STATS
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chamoli11&show_icons=true&theme=synthwave)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chamoli11&show_icons=true&theme=dracula)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=chamoli11)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=chamoli11&theme=dracula)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamoli11)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamoli11&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chamoli11)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chamoli11&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
